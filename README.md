@@ -4,11 +4,11 @@
 
 ## Night in the woods meets Webfishing!
 ### This mod adds a 3 new species a 10 new cosmetics themed around Night in the woods!
-# Species
+### Species
 - Bear
 - Bird
 - Crocodile(or alligator...?)
-# Cosmetics
+### Cosmetics
 - Filled Glasses
 - Shirt and Tie
 - Green sweater
